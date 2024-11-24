@@ -1,4 +1,4 @@
-const data = [
+export const data = [
   {
     "content": "北海道で掘った井戸",
     "address": "日本",
